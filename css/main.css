@@ -38,6 +38,10 @@ article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summ
   display: block;
 }
 
+menu{
+  margin: 0 auto;	
+}
+
 /**
  * 1. Correct `inline-block` display not defined in IE 8/9.
  * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
